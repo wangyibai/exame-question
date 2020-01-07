@@ -1,0 +1,19 @@
+{
+  "name": "exame-question",
+  "version": "1.0.0",
+  "description": "an component for v2-constructed questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyibai/exame-question.git"
+  },
+  "author": "wangyibai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangyibai/exame-question/issues"
+  },
+  "homepage": "https://github.com/wangyibai/exame-question#readme"
+}
